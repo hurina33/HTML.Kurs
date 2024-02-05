@@ -1,0 +1,47 @@
+.shrift1{
+    font-family: 'Dancing Script', cursive;
+    width: 200px;
+    height: 200px;
+    background-color: #8dac72;
+}
+.shrift2{
+    font-family: 'Fjalla One', sans-serif;
+    width: 200px;
+    height: 200px;
+    background-color: #8dac72;
+}
+.shrift3{
+    font-family: 'Indie Flower', cursive;
+    width: 200px;
+    height: 200px;
+    background-color: #8dac72;
+}
+.shrift4{
+    font-family: 'Rubik Pixels', system-ui;
+    width: 200px;
+    height: 200px;
+    background-color: #8dac72;
+}
+.shrift5{
+    font-family: 'Sedgwick Ave Display', cursive;
+    width: 200px;
+    height: 200px;
+    background-color: #8dac72;
+}
+
+.flex{
+    width: 100%;
+    height: 600px;
+    background-color: white;
+    display:flex;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+.flex div{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+}
+body{
+    margin: 0;
+}
