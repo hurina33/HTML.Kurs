@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0a177d4-08c4-4c04-805a-c871839404c2" name="Changes" comment="homework 3,4">
+    <list default="true" id="f0a177d4-08c4-4c04-805a-c871839404c2" name="Changes" comment="homework 4_2 correct size">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW_4/hw_4_2/hw_4_2.css" beforeDir="false" afterPath="$PROJECT_DIR$/HW_4/hw_4_2/hw_4_2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW_3/hw_3_1/hw_3_1.css" beforeDir="false" afterPath="$PROJECT_DIR$/HW_3/hw_3_1/hw_3_1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW_3/hw_3_2/hw_3_2.css" beforeDir="false" afterPath="$PROJECT_DIR$/HW_3/hw_3_2/hw_3_2.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,25 +34,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;JavaScript Debug.HW_1.html.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/olenahurina/IdeaProjects/HTML.Kurs/HW_4/hw_4_2&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.HW_1.html.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/olenahurina/IdeaProjects/HTML.Kurs",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/HW_4/hw_4_2" />
@@ -83,7 +84,8 @@
       <workItem from="1707827349701" duration="55000" />
       <workItem from="1707827668853" duration="173000" />
       <workItem from="1707827864549" duration="712000" />
-      <workItem from="1707829239866" duration="594000" />
+      <workItem from="1707829239866" duration="1571000" />
+      <workItem from="1707831828616" duration="921000" />
     </task>
     <task id="LOCAL-00001" summary="homework 1-3">
       <option name="closed" value="true" />
@@ -117,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707828338970</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="homework 4_2 correct size">
+      <option name="closed" value="true" />
+      <created>1707829855860</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707829855860</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,6 +138,7 @@
     <MESSAGE value="homework 2 1-3" />
     <MESSAGE value="homework 2 add 1-3" />
     <MESSAGE value="homework 3,4" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework 3,4" />
+    <MESSAGE value="homework 4_2 correct size" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework 4_2 correct size" />
   </component>
 </project>
