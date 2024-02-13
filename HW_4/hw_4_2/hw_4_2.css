@@ -1,0 +1,86 @@
+body{
+    margin: 0;
+}
+section{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+form, .block{
+    width: 400px;
+    border: 1px solid rgb(173, 168, 168);
+    margin: 7px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+form{
+    height: 60vh;
+    flex-direction: column;
+}
+.block{
+    height: 10vh;
+}
+.instagram{
+    width: 300px;
+}
+input, button{
+    width: 300px;
+    padding: 12px;
+    background-color: rgb(173, 168, 168, 0.2);
+    border: 1px solid #b9b9b9;
+    margin: 10px 10px 20px 10px;
+    box-sizing: border-box;
+}
+button[type="submit"]{
+    background-color: #699BF7;
+    border: none;
+    border-radius: 8px;
+}
+input[type="text"]{
+    text-overflow:ellipsis;
+}
+input[type="password"]:focus,
+input[type="text"]:focus{
+    outline: none;
+    border: 1px solid #282727;
+}
+.button{
+    font-size: 20px;
+    color: white;
+}
+a{
+    text-decoration: none;
+}
+p{
+    color: #8f8989;
+    font-size: 20px;
+    margin: 5px;
+}
+.facebook{
+    border: 0;
+    background-color: white;
+    font-size: 20px;
+    padding: 5px;
+}
+.bild{
+    width: 16px;
+    height: 16px;
+    margin: 5px;
+}
+.blue{
+    color: #385185;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+span.blue{
+    font-size: 18px;
+}
+.down{
+    color: dodgerblue;
+    font-size: 22px;
+    padding: 5px;
+}

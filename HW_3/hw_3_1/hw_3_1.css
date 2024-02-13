@@ -1,0 +1,26 @@
+body{
+    margin:0;
+}
+.pink{
+    height: 50vh;
+    background-color: lightpink;
+}
+.blue{
+    height: 50vh;
+    background-color: #6879d0;
+}
+section{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    flex-direction: column;
+}
+p{
+    font-size: 1em;
+    text-align: center;
+    line-height: 20px;
+}
+h1{
+    font-size: 40px;
+    margin-top: 50px;
+}

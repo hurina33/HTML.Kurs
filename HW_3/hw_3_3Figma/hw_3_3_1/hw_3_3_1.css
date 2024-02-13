@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+}
+header{
+    height: 22vh;
+    background-color: #D9D9D9;
+}
+main{
+    display: flex;
+}
+section{
+    width: 18vw;
+    height: 56vh;
+    background-color: #817C7C;
+}
+article{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.blue{
+    width: 64vw;
+    height: 28vh;
+    background-color:#ABA8A8;
+}
+.red{
+    width: 64vw;
+    height: 28vh;
+    background-color:#878484;;
+}
+aside{
+    width: 18vw;
+    height: 56vh;
+    background-color:#B7AEAE;
+}
+footer{
+    height: 22vh;
+    display: flex;
+    justify-items: flex-end;
+    background-color: #BDBDBD;
+}

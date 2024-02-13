@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+}
+header{
+    height: 22vh;
+    background-color: #927D7D;
+}
+main{
+    height: 56vh;
+    display: flex;
+}
+.num1{
+    width: 20vw;
+    background-color: #CCC;
+}
+.num2{
+    width: 64vw;
+    background-color: #A74848;
+}
+.num3{
+    width: 16vw;
+    background-color: #B7AEAE;;
+}
+footer{
+    height: 22vh;
+    background-color: #BDBDBD;
+}
+p{
+    margin: 0;
+    font-size: 40px;
+}
+header, .num1, .num2, .num3, footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

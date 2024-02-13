@@ -1,0 +1,105 @@
+*{
+    font-family: 'KoHo', sans-serif;
+}
+body{
+    margin: 0;
+}
+section{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+article{
+    display: flex;
+}
+#page1 .image{
+    width: 30vw;
+    height: 40vh;
+    background-image: url("page1_2.png");
+    background-size: cover;
+    background-position: center;
+}
+#page1 .text{
+    width:30vw;
+    height: 40vh;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1, h3, h4{
+    text-align: center;
+}
+h1{
+    font-size: 45px;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+h3{
+    font-size: 25px;
+}
+h4{
+    font-size: 35px;
+    margin: 20px;
+}
+.downvideo h4{
+    text-align: left;
+    margin-top: 60px;
+}
+button{
+    font-size: 30px;
+    text-align: center;
+    width: 20vw;
+    height: 6vh;
+    border-radius: 5px;
+    background: rgba(217, 217, 217, 0.60);
+    border: 1px solid rgba(156, 152, 152, 0.10);
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+}
+iframe{
+    width: 60vw;
+    height: 45vh;
+    margin: 5vh 0;
+    border: 0;
+}
+.downvideo{
+    width: 60vw;
+    height: 40vh;
+}
+#page1{
+    background-image: url("page1.png");
+}
+#page2{
+    background-image:url("page2-3.jpg");
+    flex-direction: column;
+}
+#page3{
+    background-image: url("page2-3.jpg");
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.page{
+    flex-direction: column;
+}
+.block{
+    width: 30vw;
+    height: 75vh;
+    background: rgba(83, 83, 83, 0.40);
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+img{
+    width: 26vw;
+    height: 25vh;
+    margin-top: 15px;
+}
+.block2{
+    width: 27vw;
+    height: 8vh;
+    margin-top: 15px;
+    color: #6B6666;
+}
