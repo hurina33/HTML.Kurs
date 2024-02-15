@@ -1,0 +1,31 @@
+@media screen and (min-width: 300px) and (max-width: 500px) {
+    header{
+        width: 94vw;
+        height: 20vh;
+        margin: 3vw;
+        margin-bottom: 0;
+    }
+    section{
+        flex-direction: column;
+    }
+    .top{
+        width: 94vw;
+        height: 35vh;
+        margin: 3vw;
+    }
+    .down{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .down>div{
+        width: 30vw;
+        height: 15vh;
+        margin: 1vw;
+    }
+    .right{
+        width: 94vw;
+        height: 20vh;
+        margin: 3vw 0;
+    }
+}

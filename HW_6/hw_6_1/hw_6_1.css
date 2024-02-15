@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+}
+header{
+    height: 28vh;
+    background: #5E5050;
+    margin: 1vh 1vw;
+}
+section{
+    display: flex;
+    height: 68vh;
+}
+.left{
+    width: 68vw;
+    background: #699BF7;
+    margin: 1vh 1vw;
+}
+.right{
+    width: 28vw;
+    background: #C7B9FF;
+    margin: 1vh 1vw ;
+}

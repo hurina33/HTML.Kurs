@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+}
+header{
+    width: 98vw;
+    height: 28vh;
+    background: #C7B9FF;
+    margin: 1vh 1vw;
+}
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.top{
+    width: 73vw;
+    height: 33vh;
+    background: #5e9f5e;
+    margin: 1vh 1vw;
+}
+.down{
+    display: flex;
+}
+.down>div{
+    width: 23vw;
+    height: 33vh;
+    background: #0b0b73;
+    margin: 1vh 1vw;
+}
+.right{
+    width: 23vw;
+    height: 68vh;
+    background: orange;
+    margin: 1vh 1vw;
+}
+.left{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
